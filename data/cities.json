@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d304",
+      "cityName": "Sindkhed Raja",
+      "country": "India",
+      "date": "2024-01-24T18:19:11.253Z",
+      "emoji": "🇮🇳",
+      "notes": "",
+      "position": {
+        "lat": "19.890722455793565",
+        "lng": "76.16246577435108"
+      }
+    },
+    {
+      "id": "566b",
+      "cityName": "Carrion de los Condes",
+      "country": "Spain",
+      "date": "2024-01-24T18:25:25.690Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "42.34230504567357",
+        "lng": "-4.684275913879215"
+      }
+    }
+  ]
+}
